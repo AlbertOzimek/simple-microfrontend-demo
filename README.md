@@ -29,6 +29,6 @@ ng serve --project client-b --open
 For using everything together, you have to build the example and run it:
 
 ```
-npm run build:all
+npm run build
 npm start
 ```
