@@ -5,11 +5,11 @@ import { Component, OnInit } from '@angular/core';
   <div class="card">
 
   <div class="header">
-      <h2 class="title">Advanced Flight Search</h2>
+      <h2 class="title">Code</h2>
   </div>
   <div class="content">
-  
-  
+
+
       <div class="form-group">
           <label>From:</label>
           <input name="from" class="form-control">
@@ -26,15 +26,15 @@ import { Component, OnInit } from '@angular/core';
           <label>To:</label>
           <input name="to" class="form-control">
       </div>
-  
+
       <div class="form-group">
-          <button 
+          <button
               class="btn btn-default">Search</button>
-  
+
           </div>
-  
+
   </div>
-  
+
   </div>
   `
 })

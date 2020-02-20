@@ -7,7 +7,7 @@ import { Router } from '@angular/router';
   <div class="card">
 
   <div class="header">
-      <h2 class="title">Flight Search XXX</h2>
+      <h2 class="title">Showcase</h2>
   </div>
   <div class="content">
 

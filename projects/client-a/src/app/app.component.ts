@@ -8,7 +8,7 @@ import { SysEvent } from 'src/app/shell/sys-event';
     <div id="client-a">
       <div class="card">
         <div class="content">
-          <a routerLink="client-a/page1" queryParamsHandling="merge">Flight Search</a> | <a routerLink="client-a/page2" queryParamsHandling="merge">Advanced</a>
+          <a routerLink="client-a/page1" queryParamsHandling="merge">Showcase</a> | <a routerLink="client-a/page2" queryParamsHandling="merge">Code</a>
         </div>
       </div>
       <router-outlet></router-outlet>
